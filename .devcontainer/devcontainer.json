@@ -49,7 +49,9 @@
 			"ms-toolsai.jupyter"
 	      ], 
 		  "settings": {
-
+			"chat.disableAIFeatures": true,
+			"github.copilot.enable": false,
+			"extensions.ignoreRecommendations": true
 		  }
 	    }
   	}
